@@ -21,7 +21,4 @@ circle(196,30,50);
 color c4=color(153,153,153);
 fill(c4);
 circle(190,20,20);
-
-
-
 }
