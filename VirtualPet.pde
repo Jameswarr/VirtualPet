@@ -20,7 +20,7 @@ fill(c3);
 ellipse(196,30,50,50);
 color c4=color(153,153,153);
 fill(c4);
-ellipse(190,20,20,30);
+ellipse(190,20,20,20);
 
 
 }
